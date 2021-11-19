@@ -54,3 +54,4 @@ let tom4:Person4 = {
     gender:'male'
 }
 // tom4.id = 9527  “id” is readonly
+// 没有给readonly赋值也是会出现错误的
