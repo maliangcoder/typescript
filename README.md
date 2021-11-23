@@ -1,2 +1,2 @@
 # typescript
-学习typescript的仓库
+学习typescript的仓库~
