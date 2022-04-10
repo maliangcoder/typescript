@@ -11,4 +11,6 @@ handleEvent(document.getElementById('hello'),'click')
 // handleEvent(document.getElementById('world'),'dbclick') // event不能为 ’dbclick‘
 
 /* 类型别名与字符串字面量类型都是使用 type 进行定义 */
+/* 字符串类型 */
+/* test */
 
